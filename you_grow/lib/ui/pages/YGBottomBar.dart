@@ -10,11 +10,11 @@ class YGBottomBar extends StatefulWidget {
 class _YGBottomBarState extends State<YGBottomBar> {
   int currentIndex = 0;
   final screens = [
-    YGDevotionList(),
+    YGYearList(),
     YGDevotionList(),
     YGHome(),
     YGAchievement(),
-    YGYearList(),
+    YGProfile(),
   ];
 
   @override

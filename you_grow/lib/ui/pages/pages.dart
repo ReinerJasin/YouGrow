@@ -1,7 +1,9 @@
 import 'package:flutter/cupertino.dart';
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:simple_shadow/simple_shadow.dart';
 import 'package:you_grow/ui/widgets/widgets.dart';
+import 'package:youtube_player_flutter/youtube_player_flutter.dart';
 
 part 'YGEditProfile.dart';
 part 'YGProfile.dart';
@@ -15,3 +17,6 @@ part 'YGDevotionList.dart';
 part 'YGNotification.dart';
 part 'YGYearList.dart';
 part 'YGAchievement.dart';
+part 'YGYearDetail.dart';
+part 'YGYearQuestion.dart';
+part 'YGYearCongratz.dart';
